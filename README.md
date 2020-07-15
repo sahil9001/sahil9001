@@ -1,16 +1,60 @@
-### Hi there 👋
 
-<!--
-**sahil9001/sahil9001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi everyone :wave:
 
-Here are some ideas to get you started:
+I'm a 19-year-old web developer from the India, who loves open source.
+I mainly code in Python, JavaScript and C++ , but I am always learning. I am currently
+working on a couple of open-source projects: [Zulip](https://github.com/zulip/zulip), which is a software to chat, [teesco](https://github.com/ECellNitrr/teesco-backend), which is the backend system for our Volunteer Management App. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub stats](https://readme.trnck.dev/api?username=sahil9001)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+### What I do
+
+I do Open Source and Competitive Programming, though I'm more inclined to development, I try to do CP as much as possible . I am really passionate about doing web
+development, it is in my opinion the best combination of logical programming and
+(sometimes) beautiful design.
+
+## My skills 📜
+- Django 
+- React 
+- Node JS
+- Quantum Computing
+
+### Web technologies
+
+- C++
+- Q#
+- JavaScript
+- Python
+- Java
+- HTML, CSS
+- MySQL
+
+### Application Development
+
+- C++ (sort of)
+- Flutter
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | Professional working proficiency                                          |
+| Hindi         | Native or bilingual proficiency                                           |
+| Marathi       | Elementary proficiency                                                    |
+
+## What I'm currently learning 📚
+
+- Machine Learning
+- Competitive Programming
+- Web Development
+
+## Competitive programming handles
+
+- [CodeChef](https://codechef.com/users/gigawhiz/)
+- [CodeForces](https://codeforces.com/profile/gigawhiz/)
+- [LeetCode](https://leetcode.com/profile/belmod/)
