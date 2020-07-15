@@ -25,13 +25,17 @@ development, it is in my opinion the best combination of logical programming and
 - Node JS
 - Quantum Computing
 
-### Web technologies
+### Programming Languages
 
 - C++
 - Q#
 - JavaScript
 - Python
 - Java
+
+### Web Technologies
+- ReactJS
+- Django
 - HTML, CSS
 - MySQL
 
