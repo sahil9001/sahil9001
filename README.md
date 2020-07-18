@@ -6,7 +6,7 @@ I mainly code in Python, JavaScript and C++ , but I am always learning. I am cur
 working on a couple of open-source projects: [Zulip](https://github.com/zulip/zulip), which is a software to chat, [teesco](https://github.com/ECellNitrr/teesco-backend), which is the backend system for our Volunteer Management App. 
 
 
-![GitHub stats](https://readme.trnck.dev/api?username=sahil9001)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil9001)
 
 <details>
 <summary>
