@@ -8,6 +8,12 @@ working on a couple of open-source projects: [Zulip](https://github.com/zulip/zu
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil9001)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sahil9001/count.svg" />
+</p>
+
+
 <details>
 <summary>
   More stuff about me
