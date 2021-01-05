@@ -2,7 +2,7 @@
 # Hi everyone :wave:
 
 I'm a 20-year-old web developer from the India, who loves open source.
-I mainly code in Python, JavaScript and C++ , but I am always learning. I am currently
+I mainly code in Python, JavaScript and C++ , but I am always learning more languages. I am currently
 working on a couple of open-source projects: [Zulip](https://github.com/zulip/zulip), which is a software to chat, [teesco](https://github.com/ECellNitrr/teesco-backend), which is the backend system for our Volunteer Management App. 
 
 
