@@ -3,20 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Sahil Silare, a competitve programmer, web developer and curious learner!🚀</div>  
+### <div align="center"><h3>I'm Sahil Silare, a competitve programmer, web developer and curious learner!🚀</h3></div>  
   
-
-- 🔭 I'm currently doing intern at a startup, developing APIs for the backend of the applications.  
-  
-
-- 🌱 I’m currently learning React and Django  
-  
-
-- ❓ Ask me about anything related to competitve programming and Django!  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+<ul>
+  <li> <h3>🔭 I'm currently doing intern at a startup, developing APIs for the backend of the applications. </h3> </li>
+  <li> <h3>🌱 I’m currently learning React and Django. </h3> </li>
+  <li><h3>❓ Ask me about anything related to competitve programming and Django!</h3></li>
+  <li><h3>⚡ Fun fact: I use tabs over spaces </h3></li>
+</ul>
 
 <br/>  
 
