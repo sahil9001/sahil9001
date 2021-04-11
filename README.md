@@ -111,8 +111,9 @@
 
 
 ## Github Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahil9001&theme=tokyonight_duo)](https://git.io/streak-stats)
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil9001&theme=tokyonight_duo" align="center">
+</div>
 <br/>  
 
 <div align="center">
