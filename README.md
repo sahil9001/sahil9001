@@ -6,7 +6,7 @@
 ### <div align="center"><h3>I'm Sahil Silare, a competitve programmer, web developer and curious learner!🚀</h3></div>  
   
 <ul>
-  <li> <h3>🌱 I’m currently learning Native Android and Django. </h3> </li>
+  <li> <h3>🌱 I’m currently learning Native Android, Vue and Django. </h3> </li>
   <li><h3>❓ Ask me about anything related to competitve programming and Django!</h3></li>
   <li><h3>⚡ Fun fact: I use tabs over spaces </h3></li>
 </ul>
