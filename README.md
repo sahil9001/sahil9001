@@ -122,6 +122,4 @@
 
 <br />
 
-![Metrics](https://metrics.lecoq.io/sahil9001?template=classic&config.timezone=Asia%2FCalcutta&config.display=large)
-
 
