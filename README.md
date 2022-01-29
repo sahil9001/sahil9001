@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<a href="https://app.daily.dev/sahil9001"><img src="https://api.daily.dev/devcards/1ad20c241506490594f1ee4a58b65801.png?r=tdd" style="width: 300px" align="right"  alt="Sahil Silare's Dev Card"/></a>
 </div>  
   
 
-### <div align="center"><h3>I'm Sahil Silare, a competitve programmer, web developer and curious learner!🚀</h3></div>  
+### <div ><h3>I'm Sahil Silare, a competitve programmer, web developer and curious learner!🚀</h3></div>  
   
 <ul>
   <li> <h3>🌱 I’m currently learning Native Android, Vue and Django. </h3> </li>
@@ -12,7 +12,8 @@
 </ul>
 
 <br/>  
-
+<br/>  
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
