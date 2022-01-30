@@ -1,3 +1,8 @@
+## Introduction
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Sahil%20Silare&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20web%20technology.&width=1000&height=400)](https://sahil9001.github.io/)
+
+
 <div align="center">
 <a href="https://app.daily.dev/sahil9001"><img src="https://api.daily.dev/devcards/1ad20c241506490594f1ee4a58b65801.png?r=tdd" style="width: 300px" align="right"  alt="Sahil Silare's Dev Card"/></a>
 </div>  
