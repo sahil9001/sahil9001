@@ -110,16 +110,4 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil9001&theme=tokyonight_duo" align="center">
-</div>
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sahil9001&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
