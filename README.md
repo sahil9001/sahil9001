@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Hello World, I'm Sahil Silare (@sahil9001)!
-
+![Profile Views](https://komarev.com/ghpvc/?username=sahil9001&color=green)
 [![Portfolio](https://img.shields.io/badge/portfolio-gray?style=flat&logo=github&logoColor=white)](http://sahil9001.github.io)
 [![X](https://img.shields.io/badge/sahilsilare-%231DA1F2.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/sahilsilare)
 [![LinkedIn](https://img.shields.io/badge/sahilsilare-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-silare/)
