@@ -23,7 +23,6 @@ I’m a Software Developer at **Adobe**, building modern web experiences and opt
 - ⚡ Active in OSS, building **Next.js**, **Supabase**, **AWS Lambda**, and **Playwright** solutions
 
 ---
-
 ## 🛠 Tech Stack
 
 ```json
@@ -34,10 +33,11 @@ I’m a Software Developer at **Adobe**, building modern web experiences and opt
   "tools": ["Playwright", "Puppeteer", "AWS", "Vercel", "Lambda", "S3"],
   "interests": ["Microfrontends", "SEO Automation", "AI Workflows", "Cloud Architectures"]
 }
+```
 
 ---
 
 ## 👨‍💻 Work Accounts
 
-Adobe OSS : [![ssilare-adobe](https://github.com/ssilare-adobe)]
-Adobe GHEC : [![ssilare_adobe](https://github.com/ssilare_adobe)]
+Adobe OSS : [![ssilare-adobe](https://github.com/ssilare-adobe)](https://github.com/ssilare-adobe)  
+Adobe GHEC : [![ssilare_adobe](https://github.com/ssilare_adobe)](https://github.com/ssilare_adobe)
