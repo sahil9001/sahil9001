@@ -43,7 +43,7 @@ oss_accounts:
 
 <div align="center">
 
-### `stack`
+### Stack
 
 **Languages**
 
@@ -75,7 +75,7 @@ oss_accounts:
 
 <div align="center">
 
-### `trophies`
+### Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=sahil9001&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=8" />
 
@@ -85,7 +85,7 @@ oss_accounts:
 
 <div align="center">
 
-### `stats`
+### Stats
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahil9001&show_icons=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=c9d1d9&border_color=30363d&include_all_commits=true&rank_icon=github" />&nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil9001&layout=compact&bg_color=0d1117&title_color=FB923C&text_color=c9d1d9&border_color=30363d&langs_count=8" />
