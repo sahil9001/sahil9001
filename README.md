@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=FB923C&center=true&vCenter=true&width=720&lines=Sahil+Silare+%2F+sahil9001;SWE+%40+Adobe+%E2%80%94+AEM+Sites+Optimizer;Microfrontends+%C2%B7+SEO+Automation+%C2%B7+AI;C%2B%2B+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=FB923C&center=true&vCenter=true&width=720&lines=Sahil+Silare+%2F+sahil9001;SWE+%40+Adobe+%E2%80%94+AEM+%26+LLM+Optimizer;AI%2DNative+Engineer+%C2%B7+Claude+Code+%C2%B7+Codex;C%2B%2B+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing SVG" />
 
 <br/>
 
@@ -10,10 +10,11 @@
 
 <br/>
 
-Software Developer at **Adobe** working on **AEM Sites Optimizer** — web performance, SEO automation, and micro-frontend architecture at scale. NIT Raipur CS. Building at the intersection of AI, developer tooling, and the open web.
+Software Developer at **Adobe** working on **AEM Sites Optimizer** and **Adobe LLM Optimizer** — web performance, SEO automation, and micro-frontend architecture at scale. AI-native engineer: daily driver is Claude Code and Codex. NIT Raipur CS.
 
-- **Adobe** → AEM Sites Optimizer · DX Platform innovation
+- **Adobe** → AEM Sites Optimizer · LLM Optimizer · DX Platform
 - **Focus** → Micro-Frontend Architecture · SEO Automation · Agentic AI Workflows
+- **AI Tools** → Claude Code · OpenAI Codex
 - **OSS** → [ssilare-adobe](https://github.com/ssilare-adobe) · [ssilare_adobe](https://github.com/ssilare_adobe)
 
 <br/>
@@ -37,6 +38,10 @@ Software Developer at **Adobe** working on **AEM Sites Optimizer** — web perfo
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=playwright,docker,vercel,git,vscode&theme=dark" />
+
+**AI**
+
+<img src="https://img.shields.io/badge/Claude_Code-FB923C?style=flat-square&logo=anthropic&logoColor=0d1117" />&ensp;<img src="https://img.shields.io/badge/OpenAI_Codex-0d1117?style=flat-square&logo=openai&logoColor=white" />&ensp;<img src="https://img.shields.io/badge/Adobe_LLM_Optimizer-0d1117?style=flat-square&logo=adobe&logoColor=FF0000" />
 
 </div>
 
