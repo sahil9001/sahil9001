@@ -1,27 +1,49 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:FB923C&height=220&section=header&text=Sahil%20Silare&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI-Native%20Software%20Engineer%20%40%20Adobe&descAlignY=52&descSize=17&descColor=c9d1d9" width="100%" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=FB923C&center=true&vCenter=true&width=720&lines=Sahil+Silare+%2F+sahil9001;SWE+%40+Adobe+%E2%80%94+AEM+%26+LLM+Optimizer;AI%2DNative+Engineer+%C2%B7+Claude+Code+%C2%B7+Codex;C%2B%2B+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing SVG" />
+<div align="center">
 
-<br/>
+<a href="http://sahil9001.github.io"><img src="https://img.shields.io/badge/Portfolio-FB923C?style=for-the-badge&logo=googlechrome&logoColor=0d1117" /></a>&nbsp;
+<a href="https://twitter.com/sahilsilare"><img src="https://img.shields.io/badge/%40sahilsilare-1a1a2e?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sahil-silare/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
+<a href="https://www.youtube.com/@CodeArchitectAdobe"><img src="https://img.shields.io/badge/YouTube-1a1a2e?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 
-<a href="http://sahil9001.github.io"><img src="https://img.shields.io/badge/Portfolio-FB923C?style=flat-square&logo=github&logoColor=0d1117" /></a>&ensp;<a href="https://twitter.com/sahilsilare"><img src="https://img.shields.io/badge/%40sahilsilare-0d1117?style=flat-square&logo=x&logoColor=FB923C" /></a>&ensp;<a href="https://www.linkedin.com/in/sahil-silare/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>&ensp;<a href="https://www.youtube.com/@CodeArchitectAdobe"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" /></a>&ensp;<img src="https://komarev.com/ghpvc/?username=sahil9001&style=flat-square&color=FB923C&label=visitors" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sahil9001&style=for-the-badge&color=FB923C&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-Software Developer at **Adobe** working on **AEM Sites Optimizer** and **Adobe LLM Optimizer** — web performance, SEO automation, and micro-frontend architecture at scale. AI-native engineer: daily driver is Claude Code and Codex. NIT Raipur CS.
+```yaml
+# ~/.config/sahil/profile.yml
 
-- **Adobe** → AEM Sites Optimizer · LLM Optimizer · DX Platform
-- **Focus** → Micro-Frontend Architecture · SEO Automation · Agentic AI Workflows
-- **AI Tools** → Claude Code · OpenAI Codex
-- **OSS** → [ssilare-adobe](https://github.com/ssilare-adobe) · [ssilare_adobe](https://github.com/ssilare_adobe)
+name: Sahil Silare
+role: Software Engineer @ Adobe
+
+building:
+  - AEM Sites Optimizer
+  - Adobe LLM Optimizer
+
+ai_workflow:
+  daily_drivers: [Claude Code, OpenAI Codex]
+  focus: [Microfrontends, SEO Automation, Agentic AI]
+
+languages: [C++, Go, TypeScript, Java, JavaScript]
+education: B.Tech Computer Science — NIT Raipur
+
+oss_accounts:
+  adobe_oss: github.com/ssilare-adobe
+  adobe_ghec: github.com/ssilare_adobe
+```
 
 <br/>
 
-## Stack
-
 <div align="center">
+
+### `stack`
 
 **Languages**
 
@@ -35,44 +57,51 @@ Software Developer at **Adobe** working on **AEM Sites Optimizer** and **Adobe L
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,aws&theme=dark" />
 
-**Tools**
+**Tools & Testing**
 
 <img src="https://skillicons.dev/icons?i=playwright,docker,vercel,git,vscode&theme=dark" />
 
-**AI**
+<br/>
 
-<img src="https://img.shields.io/badge/Claude_Code-FB923C?style=flat-square&logo=anthropic&logoColor=0d1117" />&ensp;<img src="https://img.shields.io/badge/OpenAI_Codex-0d1117?style=flat-square&logo=openai&logoColor=white" />&ensp;<img src="https://img.shields.io/badge/Adobe_LLM_Optimizer-0d1117?style=flat-square&logo=adobe&logoColor=FF0000" />
+**AI-Native Workflow**
+
+<img src="https://img.shields.io/badge/Claude_Code-FB923C?style=for-the-badge&logo=anthropic&logoColor=0d1117" />&nbsp;
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Adobe_LLM_Optimizer-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
 
 </div>
 
 <br/>
 
-## GitHub Stats
+<div align="center">
+
+### `trophies`
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahil9001&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=8" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahil9001&show_icons=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=8b949e&border_color=30363d&include_all_commits=true&rank_icon=github" />&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil9001&layout=compact&bg_color=0d1117&title_color=FB923C&text_color=8b949e&border_color=30363d&langs_count=8" />
+### `stats`
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sahil9001&show_icons=true&bg_color=0d1117&title_color=FB923C&icon_color=FB923C&text_color=c9d1d9&border_color=30363d&include_all_commits=true&rank_icon=github" />&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil9001&layout=compact&bg_color=0d1117&title_color=FB923C&text_color=c9d1d9&border_color=30363d&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sahil9001&background=0d1117&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=30363d&border=30363d&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=sahil9001&background=0d1117&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=30363d&border=30363d&dates=8b949e" />
 
 </div>
 
 <br/>
 
-## Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil9001&bg_color=0d1117&color=FB923C&line=FB923C&point=c9d1d9&area=true&area_color=FB923C20&hide_border=true&custom_title=Contribution+Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil9001&bg_color=0d1117&color=FB923C&line=FB923C&point=c9d1d9&area=true&area_color=FB923C20&hide_border=true" />
 
 </div>
 
-<br/>
-
----
-
-<div align="center">
-<sub><a href="http://sahil9001.github.io">sahil9001.github.io</a></sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
